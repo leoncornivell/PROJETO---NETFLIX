@@ -15,3 +15,7 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+function ventana_assist(){
+    window.open('ventanass.html', 'popup');
+    }
