@@ -17,5 +17,5 @@ $('.owl-carousel').owlCarousel({
 })
 
 function ventana_assist(){
-    window.open('ventanass.html', 'popup');
+    window.open("./ventanass.html", "Munna Michael", "width=800, height=600, scrollbars=NO");
     }
