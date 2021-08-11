@@ -102,8 +102,9 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top: 5px;
 }
-.video{
+main .video{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 100px;
 }
