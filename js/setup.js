@@ -17,6 +17,6 @@ $('.owl-carousel').owlCarousel({
 })
 
 function ventana_assist() {
-    window.open("./ventanass.html", "Munna Michael", "width=800, height=600, scrollbars=NO");
+    window.open("./ventanass.html", "Munna Michael", "width=650, height=500, scrollbars=NO");
     centerscreen = yes;
 }
