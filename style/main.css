@@ -104,5 +104,6 @@ header nav a:hover{
 }
 .video{
     display: flex;
-    justify-content: centeer;
+    justify-content: center;
+    align-items: center;
 }
