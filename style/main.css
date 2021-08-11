@@ -42,7 +42,7 @@ header nav a:hover{
 /* FILME PRINCIPAL*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)100%), url(../img/MUNNA\ POISTER3.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)100%), url(../img/Capa\ Munna.jpg);
     height: 400px;
     background-size:cover;
     display:flex;
@@ -57,6 +57,7 @@ header nav a:hover{
      
 }
 .titulo{
+    .
     margin-top: 15%;
         font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -100,4 +101,8 @@ header nav a:hover{
 }
 .carrosel-filmes{
     margin-top: 5px;
+}
+.video{
+    display: flex;
+    justify-content: centeer;
 }
